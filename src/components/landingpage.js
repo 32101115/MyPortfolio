@@ -7,7 +7,7 @@ class LandingPage extends Component {
 			<div style={{width:'100%',height:'100%', margin: 'auto'}}>
 				<Grid className="landing-grid">
 					<Cell col={12}>
-						<img className="avatar-img" src="jitae.jpeg" alt="avatar"/>
+						<img className="avatar-img" src="/img/jitae.jpeg" alt="avatar"/>
 
 					<div className="banner-test">
 						<h1>
